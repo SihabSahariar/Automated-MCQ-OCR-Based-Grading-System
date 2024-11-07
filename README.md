@@ -52,6 +52,15 @@ The **AI Based Automated MCQ Grading System** is designed to revolutionize the p
 
 ![Product Poster](poster.png)
 
+*Visual representation of the product.*
+
+---
+
+
+## APP Screenshots
+
+![Software Screenshot](products.PNG)
+
 *Visual representation of the system interface and its functionalities.*
 
 ---
